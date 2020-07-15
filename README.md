@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://th.bing.com/th/id/OIP.4RIXfWCSrDsagQWHil5unwHaEK?pid=Api&rs=1"
 	alt="CRUD"
-	width="200"
+	width="500"
 	style="float: left; margin-right: 5px;" />
 </p>
 
