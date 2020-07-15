@@ -1,4 +1,4 @@
-# WebScraping_Larepublica
+# WebScraping_LaRepublica
 
 <p align="center">
 <img src="https://th.bing.com/th/id/OIP.4RIXfWCSrDsagQWHil5unwHaEK?pid=Api&rs=1"
