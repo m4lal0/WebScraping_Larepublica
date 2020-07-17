@@ -7,7 +7,15 @@
 	style="float: left; margin-right: 5px;" />
 </p>
 
-Scraping con Python y Xpath del sitio web: www.larepublica.co
+Scraping con Python y Xpath al sitio web: www.larepublica.co
+
+### Requisitos
+
+Instalar los siguientes paquetes:
+
+* requests
+* lxml
+* autopep8
 
 ---
 ⌨️ por [Malalo](https://github.com/m4lal0)
